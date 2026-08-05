@@ -2,5 +2,5 @@
   "versionCode": 7,
   "versionName": "1.6",
   "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.6/app-release.apk",
-  "notes": "See CHANGELOG.md in the animeshahilya/Radio repo, or Settings > What's new inside the app, for the full list of changes in this version."
+  "notes": "New \"Sound effects\" screen in Settings: Aural Exciter, Loudness Leveler, Clip Guard, Crossfeed, Pseudo-Stereo, Bass Warmth, Mono Repair, Rumble Filter, Balance, and more - all in one place, off (or centered) by default.\n\nThe app can now check for and install its own updates, right from Settings.\n\nNew State filter for Radio, now sharing one sheet with Language and a one-tap Clear. Settings lets you hide individual categories or languages you don't use.\n\nNewly discovered stations get a \"NEW\" badge. Material You support on Android 12+. Night Mode is now a real 3-band compressor with a de-esser. Smart audio smoothing removes harsh \"swishing\" on low-bitrate streams.\n\nNow works on Android 11+ and older 32-bit devices too. New Community filter. Smoother TalkBack navigation. Bug fixes and performance improvements."
 }
