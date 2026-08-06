@@ -1,6 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.6/app-release.apk",
-  "notes": "New \"Sound effects\" screen in Settings: Aural Exciter, Loudness Leveler, Clip Guard, Crossfeed, Pseudo-Stereo, Bass Warmth, Mono Repair, Rumble Filter, Balance, and more - all in one place, off (or centered) by default.\n\nThe app can now check for and install its own updates, right from Settings.\n\nNew State filter for Radio, now sharing one sheet with Language and a one-tap Clear. Settings lets you hide individual categories or languages you don't use.\n\nNewly discovered stations get a \"NEW\" badge. Material You support on Android 12+. Night Mode is now a real 3-band compressor with a de-esser. Smart audio smoothing removes harsh \"swishing\" on low-bitrate streams.\n\nNow works on Android 11+ and older 32-bit devices too. New Community filter. Smoother TalkBack navigation. Bug fixes and performance improvements."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7/app-release.apk",
+  "sha256": "42babe4bf6b853c991c3c2cbc1abd5cc79aee41bd221c9eaa8156875b101a341",
+  "notes": "Radio's Trending tab now defaults to India-only stations when nothing's filtered - diaspora and global-sports stations are still there, just a language/category/state/search away.\n\nExport and import your favorites as a JSON file - back them up or move them to a new device.\n\nThe updater now verifies the downloaded APK before installing, and you can \"Skip\" a version you don't want to be reminded about again.\n\nFixed: manually refreshing station/channel lists from Settings now tells you what changed (added/removed counts), spoken by TalkBack too - previously it gave no feedback at all."
 }
