@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7/app-release.apk",
-  "sha256": "42babe4bf6b853c991c3c2cbc1abd5cc79aee41bd221c9eaa8156875b101a341",
-  "notes": "Radio's Trending tab now defaults to India-only stations when nothing's filtered - diaspora and global-sports stations are still there, just a language/category/state/search away.\n\nExport and import your favorites as a JSON file - back them up or move them to a new device.\n\nThe updater now verifies the downloaded APK before installing, and you can \"Skip\" a version you don't want to be reminded about again.\n\nFixed: manually refreshing station/channel lists from Settings now tells you what changed (added/removed counts), spoken by TalkBack too - previously it gave no feedback at all."
+  "versionCode": 9,
+  "versionName": "1.7.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.1/app-release.apk",
+  "sha256": "9eab9c5e3e83902e4a640966cd51513922e28e5d379dc7b3c3db8750337c7922",
+  "notes": "TV has an optional \"Video mode\" now (Settings > TV, off by default) - plays the actual video from TV channels instead of just audio.\n\n\"Import favorites\" now also accepts M3U/M3U8 playlists, not just a JSON export.\n\nEQ presets finally explain what they do, plus two new ones: Film Music and Live Commentary.\n\nFixed: the update downloader could hang forever on a stuck/paused download - now times out cleanly after 5 minutes."
 }
