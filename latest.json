@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7.2",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.2/app-release.apk",
-  "sha256": "3caad2226c62106d8c99fdf107c6cb21f842d1d7b781726589dcebac1bf9a4b0",
-  "notes": "Radio's filters are more consistently Indian now: only the Sports filter still shows stations from around the world - every other filter (Music, News, Devotional, AIR, Community, and the rest) now sticks to Indian stations and stations in Indian languages, even ones based outside India. TV's own filters are unaffected.\n\nSettings and Sound effects now show what each option actually does right on the screen, not just to screen readers.\n\nNicer empty screens, smoother filter switching, and an on-brand \"NEW\" badge color."
+  "versionCode": 11,
+  "versionName": "1.7.3",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.3/app-release.apk",
+  "sha256": "b6ab7c6311e66403242100b074d02dd54254cdeb0d4ba41102d9d07a16ea292f",
+  "notes": "First launch now opens with a short welcome screen explaining what Tarang does, instead of dropping straight into an empty list.\n\nSearch now tolerates a typo or two, and a station or channel that fails to play offers a one-tap \"Similar\" suggestion pulled from its language or genre.\n\nThe station and channel lists now quietly check for updates far more often - on every launch, on reconnecting after being offline, and right after a playback failure - not just once every 12 hours, and stay silent unless something actually changed.\n\nRadio and TV also buffer less aggressively now, since live streams can't be seeked into anyway - this also cuts stall-recovery time in about half."
 }
