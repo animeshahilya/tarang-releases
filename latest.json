@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.7.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.1/app-release.apk",
-  "sha256": "9eab9c5e3e83902e4a640966cd51513922e28e5d379dc7b3c3db8750337c7922",
-  "notes": "TV has an optional \"Video mode\" now (Settings > TV, off by default) - plays the actual video from TV channels instead of just audio.\n\n\"Import favorites\" now also accepts M3U/M3U8 playlists, not just a JSON export.\n\nEQ presets finally explain what they do, plus two new ones: Film Music and Live Commentary.\n\nFixed: the update downloader could hang forever on a stuck/paused download - now times out cleanly after 5 minutes."
+  "versionCode": 10,
+  "versionName": "1.7.2",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.2/app-release.apk",
+  "sha256": "3caad2226c62106d8c99fdf107c6cb21f842d1d7b781726589dcebac1bf9a4b0",
+  "notes": "Radio's filters are more consistently Indian now: only the Sports filter still shows stations from around the world - every other filter (Music, News, Devotional, AIR, Community, and the rest) now sticks to Indian stations and stations in Indian languages, even ones based outside India. TV's own filters are unaffected.\n\nSettings and Sound effects now show what each option actually does right on the screen, not just to screen readers.\n\nNicer empty screens, smoother filter switching, and an on-brand \"NEW\" badge color."
 }
