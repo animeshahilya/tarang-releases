@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.7.3",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.3/app-release.apk",
-  "sha256": "b6ab7c6311e66403242100b074d02dd54254cdeb0d4ba41102d9d07a16ea292f",
-  "notes": "First launch now opens with a short welcome screen explaining what Tarang does, instead of dropping straight into an empty list.\n\nSearch now tolerates a typo or two, and a station or channel that fails to play offers a one-tap \"Similar\" suggestion pulled from its language or genre.\n\nThe station and channel lists now quietly check for updates far more often - on every launch, on reconnecting after being offline, and right after a playback failure - not just once every 12 hours, and stay silent unless something actually changed.\n\nRadio and TV also buffer less aggressively now, since live streams can't be seeked into anyway - this also cuts stall-recovery time in about half."
+  "versionCode": 12,
+  "versionName": "1.7.3.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.3.1/app-release.apk",
+  "sha256": "7aef9e0ab73db4c3f9db73d6053ad8048e27fdebcd372805369f8ee6c9cedb9f",
+  "notes": "The AIR filter showed some stations without their \"AIR\"/\"Akashvani\" prefix while the same station kept it everywhere else (language filters, search, \"All\") - the same real station could read as two different-looking names depending on where you saw it. Every station now shows its real name consistently everywhere; the AIR filter still sorts alphabetically by city with the prefix ignored, it just no longer changes what's actually displayed."
 }
