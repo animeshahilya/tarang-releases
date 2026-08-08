@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.7.3.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.3.1/app-release.apk",
-  "sha256": "7aef9e0ab73db4c3f9db73d6053ad8048e27fdebcd372805369f8ee6c9cedb9f",
-  "notes": "The AIR filter showed some stations without their \"AIR\"/\"Akashvani\" prefix while the same station kept it everywhere else (language filters, search, \"All\") - the same real station could read as two different-looking names depending on where you saw it. Every station now shows its real name consistently everywhere; the AIR filter still sorts alphabetically by city with the prefix ignored, it just no longer changes what's actually displayed."
+  "versionCode": 13,
+  "versionName": "1.7.4",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.4/app-release.apk",
+  "sha256": "e9e0f417a3cd2e37c3325cce16a749f601dbee2ac935bafb2154415f6365a033",
+  "notes": "Fixed video buffering/stuttering when Video mode was turned on for TV channels on a weaker connection. Auto EQ now also recognizes sports commentary and Bollywood/film music, picking a better-suited sound for them automatically. Removed the manual \"refresh stations & channels\" option, since the list already keeps itself up to date in the background."
 }
