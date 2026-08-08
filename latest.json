@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.7.4",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.4/app-release.apk",
-  "sha256": "e9e0f417a3cd2e37c3325cce16a749f601dbee2ac935bafb2154415f6365a033",
-  "notes": "Fixed video buffering/stuttering when Video mode was turned on for TV channels on a weaker connection. Auto EQ now also recognizes sports commentary and Bollywood/film music, picking a better-suited sound for them automatically. Removed the manual \"refresh stations & channels\" option, since the list already keeps itself up to date in the background."
+  "versionCode": 14,
+  "versionName": "1.7.4.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.4.1/app-release.apk",
+  "sha256": "596e06869d0a87b4889ed243685f0833454175fa68e7dcf7e3d8bad0ce3f3df1",
+  "notes": "Fixed: tapping a real search result while a query was active never saved it to recent-searches history (now consistent on both Radio/TV and Podcasts). Fixed: the Auto EQ spectral analyser was misclassifying audio bands using amplitude/zero-crossing proxies; it now uses proper Biquad IIR filters for accurate low/mid/high energy measurement."
 }
