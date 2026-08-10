@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.7.4.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.4.1/app-release.apk",
-  "sha256": "596e06869d0a87b4889ed243685f0833454175fa68e7dcf7e3d8bad0ce3f3df1",
-  "notes": "Fixed: tapping a real search result while a query was active never saved it to recent-searches history (now consistent on both Radio/TV and Podcasts). Fixed: the Auto EQ spectral analyser was misclassifying audio bands using amplitude/zero-crossing proxies; it now uses proper Biquad IIR filters for accurate low/mid/high energy measurement."
+  "versionCode": 15,
+  "versionName": "1.7.5",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.5/app-release.apk",
+  "sha256": "5b0df769a3abbccb96bcf13cb8c443be84a1d889e6f0865061905ccfed112e09",
+  "notes": "New: added an offline Library section for playing music already on your device, alongside Radio, TV, and Podcasts. Improved: the playback buffer now adapts automatically to your connection instead of one fixed size for everyone, so slow connections stall less and fast ones stay closer to live. Improved: station and TV channel lists now refresh themselves in the background roughly twice a day even when the app isn't open. Improved: brought back a manual 'Refresh station & channel lists now' option in Settings."
 }
