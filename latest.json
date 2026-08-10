@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.7.5",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.5/app-release.apk",
-  "sha256": "5b0df769a3abbccb96bcf13cb8c443be84a1d889e6f0865061905ccfed112e09",
-  "notes": "New: added an offline Library section for playing music already on your device, alongside Radio, TV, and Podcasts. Improved: the playback buffer now adapts automatically to your connection instead of one fixed size for everyone, so slow connections stall less and fast ones stay closer to live. Improved: station and TV channel lists now refresh themselves in the background roughly twice a day even when the app isn't open. Improved: brought back a manual 'Refresh station & channel lists now' option in Settings."
+  "versionCode": 16,
+  "versionName": "1.7.5.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.5.1/app-release.apk",
+  "sha256": "2583c6d2573cd99a00ef1721f1843d6713240a9b99d663411390cfdde613f537",
+  "notes": "Fixed: some live streams would play fine for a while then stop instead of reconnecting when the connection dropped - now retries the same as any other connection failure. Improved: station and TV channel lists refresh more often (roughly every 2 hours in the background, within an hour on app open) so changes reach you much sooner. Improved: widened network retry timing/timeouts on the station-list fetch for slower connections."
 }
