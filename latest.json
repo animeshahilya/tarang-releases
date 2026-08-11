@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.7.5.3",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.5.3/app-release.apk",
-  "sha256": "71179086391636c2fc499d6bfd13b7f6c7179571e59101ccba178082ab0b0609",
-  "notes": "Improved: the Sports filter now only shows stations in an Indian language or English, wherever in the world they broadcast from, instead of pulling in sports stations in any language. The filter bar takes up less room before the station list starts, and category chips (Favorites, Sports, AIR, etc.) are now grouped into Personal, Genre, and Broadcaster clusters, with TalkBack announcing each group."
+  "versionCode": 19,
+  "versionName": "1.7.6",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.6/app-release.apk",
+  "sha256": "0df6871cd190175309c6c1f152e861472da7a3ba276511d9adff04958d3b62d5",
+  "notes": "New: Library is now Music, with real music-player features - tap a song and the rest of your library keeps playing after it instead of stopping, plus Play all and Shuffle buttons, Repeat (off/one/all), sorting by title/artist/album/date added/duration, and browsing by Album, Artist, or Folder. Fixed: a stray 'Clear filters' button could show up on TV after using the state filter on Radio, and a TalkBack filter chip no longer reads its 'double tap' hint twice."
 }
