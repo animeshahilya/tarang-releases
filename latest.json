@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.7.5.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.5.1/app-release.apk",
-  "sha256": "2583c6d2573cd99a00ef1721f1843d6713240a9b99d663411390cfdde613f537",
-  "notes": "Fixed: some live streams would play fine for a while then stop instead of reconnecting when the connection dropped - now retries the same as any other connection failure. Improved: station and TV channel lists refresh more often (roughly every 2 hours in the background, within an hour on app open) so changes reach you much sooner. Improved: widened network retry timing/timeouts on the station-list fetch for slower connections."
+  "versionCode": 17,
+  "versionName": "1.7.5.2",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.5.2/app-release.apk",
+  "sha256": "af7bc4434ae96ace0bfd079e9b64902b39dab41940300f81f085badc7690a371",
+  "notes": "New: language filter now supports selecting more than one language at once, e.g. Hindi and Gujarati together. Improved: category filter chips sit directly on screen now instead of behind a menu; Auto EQ now adapts bass response too, not just treble, and no longer adds treble brightness to already-harsh low-bitrate streams; Auto EQ also notices a music segment inside an otherwise-spoken podcast episode and adjusts for it. Fixed: selecting a language filter now matches a station's primary language only, not any language it merely mentions."
 }
