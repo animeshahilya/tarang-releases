@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.7.6.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.6.1/app-release.apk",
-  "sha256": "59dada39fcf68bc932f55ce6d87acf12ce76914a9c063e8831ae42c1026dceb8",
-  "notes": "New: Music has a real Now Playing screen now, like Radio/TV, with proper Previous/Next track buttons instead of the podcast-style 10/30-second skip controls it borrowed before. Improved: Auto EQ now applies a gentler version of whatever preset it picks automatically instead of full strength, and the update-download progress bar no longer sits frozen at 0% on phones where the total size takes a while to arrive. Fixed: installing an update no longer jumps straight to the system installer the instant the download finishes - there's now a 'Ready to install' step you tap through first."
+  "versionCode": 21,
+  "versionName": "1.7.6.2",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.6.2/app-release.apk",
+  "sha256": "e6df0d3c7e39b58669f24d4a35ab23b7827e4c4e189383f1bc6fb53f1a459d46",
+  "notes": "New: Radio's Previous/Next station and seek controls can now be turned on or off separately for the mini player, the Now Playing screen, and the notification, with a choice of Seek, Previous/Next, or Both, and a 5-55 second seek duration when Seek is on. Improved: Auto EQ no longer flickers on borderline content - it now recognizes music with vocals as music instead of occasionally misreading it as plain speech, and its background bass/treble adjustments no longer cause an audible flutter every few seconds."
 }
