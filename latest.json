@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.7.6.2",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.6.2/app-release.apk",
-  "sha256": "e6df0d3c7e39b58669f24d4a35ab23b7827e4c4e189383f1bc6fb53f1a459d46",
-  "notes": "New: Radio's Previous/Next station and seek controls can now be turned on or off separately for the mini player, the Now Playing screen, and the notification, with a choice of Seek, Previous/Next, or Both, and a 5-55 second seek duration when Seek is on. Improved: Auto EQ no longer flickers on borderline content - it now recognizes music with vocals as music instead of occasionally misreading it as plain speech, and its background bass/treble adjustments no longer cause an audible flutter every few seconds."
+  "versionCode": 22,
+  "versionName": "1.7.7",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7/app-release.apk",
+  "sha256": "06b2805cd035cf4aaad919aa2cb82954690c438166e6158c5958fca4c9af5085",
+  "notes": "New: Radio's customizable transport controls - Seek, Previous/Next, or Both, with a 5-55 second seek duration - now work the same way across TV, Podcasts, and Music too, not just Radio. Fixed: a crash when playing certain streams with more than 2 audio channels (5.1/7.1 surround sources); Smooth Transitions now actually fades between tracks and stations instead of doing nothing; the mini player no longer shows Radio's Previous/Next controls during a podcast episode. Improved: lower battery use from the playback notification and equalizer, and station/channel refreshes now skip rewriting the cache when nothing changed."
 }
