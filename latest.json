@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.7.6",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.6/app-release.apk",
-  "sha256": "0df6871cd190175309c6c1f152e861472da7a3ba276511d9adff04958d3b62d5",
-  "notes": "New: Library is now Music, with real music-player features - tap a song and the rest of your library keeps playing after it instead of stopping, plus Play all and Shuffle buttons, Repeat (off/one/all), sorting by title/artist/album/date added/duration, and browsing by Album, Artist, or Folder. Fixed: a stray 'Clear filters' button could show up on TV after using the state filter on Radio, and a TalkBack filter chip no longer reads its 'double tap' hint twice."
+  "versionCode": 20,
+  "versionName": "1.7.6.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.6.1/app-release.apk",
+  "sha256": "59dada39fcf68bc932f55ce6d87acf12ce76914a9c063e8831ae42c1026dceb8",
+  "notes": "New: Music has a real Now Playing screen now, like Radio/TV, with proper Previous/Next track buttons instead of the podcast-style 10/30-second skip controls it borrowed before. Improved: Auto EQ now applies a gentler version of whatever preset it picks automatically instead of full strength, and the update-download progress bar no longer sits frozen at 0% on phones where the total size takes a while to arrive. Fixed: installing an update no longer jumps straight to the system installer the instant the download finishes - there's now a 'Ready to install' step you tap through first."
 }
