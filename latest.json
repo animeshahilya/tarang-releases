@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.7.7.2",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7.2/app-release.apk",
-  "sha256": "6a80411d937552909ae2e65c86eeafa0355bf01fefe625f3bd112d3608569644",
-  "notes": "New: Announcement detail (Settings) controls how much TalkBack reads out for each station, channel, podcast, or episode row - Minimal/Standard/Detailed. Sound Upscaler (Sound Effects, formerly Aural Exciter) now combines treble sparkle and bass warmth into one switch, automatically scales its strength to how thin the current stream actually is, and switches on Clip Guard alongside it so the stronger combined boost stays clean."
+  "versionCode": 25,
+  "versionName": "1.7.7.3",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7.3/app-release.apk",
+  "sha256": "5afe2766edb5bad3eb101423d643f26cf80764cc9b87eaa244ae7b7da75fc34d",
+  "notes": "New: Radio now has a way to report a problem (Settings > Radio > Report a problem) - files it as a GitHub report with basic app/device info attached automatically. Improved: play/pause and buffering now cross-fade instead of cutting instantly, the favorite heart pops on tap, and lists that reorder or filter (Local Music, filter chips, recent searches) now animate instead of snapping. Fixed a duplicate visualizer animation running unseen behind the expanded Now Playing screen."
 }
