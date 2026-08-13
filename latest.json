@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.7.7.3",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7.3/app-release.apk",
-  "sha256": "5afe2766edb5bad3eb101423d643f26cf80764cc9b87eaa244ae7b7da75fc34d",
-  "notes": "New: Radio now has a way to report a problem (Settings > Radio > Report a problem) - files it as a GitHub report with basic app/device info attached automatically. Improved: play/pause and buffering now cross-fade instead of cutting instantly, the favorite heart pops on tap, and lists that reorder or filter (Local Music, filter chips, recent searches) now animate instead of snapping. Fixed a duplicate visualizer animation running unseen behind the expanded Now Playing screen."
+  "versionCode": 26,
+  "versionName": "1.7.7.4",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7.4/app-release.apk",
+  "sha256": "9b0fa928162192b3b5701d2c8d46da649e39befb7b876a2a40a448ad1cb2faa9",
+  "notes": "Improved: Radio, TV, Podcasts, Music, and Settings are now a bottom tab bar instead of icon buttons in the top bar - all five are reachable in one tap from anywhere, including from Settings itself. The language/state filter sheet no longer crowds its last row of chips against the on-screen navigation buttons. Fixed: the device back button now works while in Settings - it used to do nothing. Reopening the app after it had been closed for a while no longer lands you back on Settings; it goes to your chosen default tab like it's supposed to."
 }
