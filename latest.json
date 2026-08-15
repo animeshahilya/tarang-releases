@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.7.7.7",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7.7/app-release.apk",
-  "sha256": "f9c8a0fb583a63cd657a9852a8c5504bbbf1adbd5f953057df11662b8765291f",
-  "notes": "Fixed: TalkBack was announcing several controls twice, most noticeably the bottom navigation bar (\"Radio Radio Tab\" instead of \"Radio Tab\") - also fixed on the category/language/state filter chips across Radio, TV, and Podcasts. Selecting the Sports category together with a language filter (e.g. English) could mix in stations that are really News/Talk, not Sports - sports-talk-format stations were being pulled into the News category too because \"talk\" was treated as a news keyword."
+  "versionCode": 30,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8/app-release.apk",
+  "sha256": "c1e047c26e41104f7871b322d2ffab8c5570166af45922e4fb9dd14ce44cfbd9",
+  "notes": "New: Record any live radio stream straight from the Now Playing screen - saved to your device's Music/Tarang folder so it's easy to find in a file manager or another music app. Improved: Settings' language list (Radio/TV) now has a search box once there are enough detected languages to make scrolling through them painful. Fixed: Recordings are now saved in the format the station actually streams (MP3/AAC/OGG/etc.) instead of always being labeled .mp3. The record button and playback speed control now have proper TalkBack labels."
 }
