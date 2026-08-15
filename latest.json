@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "1.7.7.6",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7.6/app-release.apk",
-  "sha256": "b4fb5196fcd07c24b8af4aca6d827aa1e2f40c5ac68426f851976c23bf765967",
-  "notes": "New: Added DASH stream support alongside HLS. Improved: Fixed a bug where some TV channels with plain (non-HLS) streams were being forced through the wrong parser and failing to play. Streams with a permanently unsupported format now fail fast with a clear message instead of retrying for ~30 seconds first. Reduced background battery use: the equalizer's real-time audio analysis now samples less often, and the periodic background station refresh skips itself when the battery is low."
+  "versionCode": 29,
+  "versionName": "1.7.7.7",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7.7/app-release.apk",
+  "sha256": "f9c8a0fb583a63cd657a9852a8c5504bbbf1adbd5f953057df11662b8765291f",
+  "notes": "Fixed: TalkBack was announcing several controls twice, most noticeably the bottom navigation bar (\"Radio Radio Tab\" instead of \"Radio Tab\") - also fixed on the category/language/state filter chips across Radio, TV, and Podcasts. Selecting the Sports category together with a language filter (e.g. English) could mix in stations that are really News/Talk, not Sports - sports-talk-format stations were being pulled into the News category too because \"talk\" was treated as a news keyword."
 }
