@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.7.7.5",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7.5/app-release.apk",
-  "sha256": "5cb5fdfe4b77b447193bc65ced6c2b89db50ce8f52a89ad3f0bdee83c8a320cb",
-  "notes": "New: Swipe up on the mini player (Radio/TV and Music) to open the full Now Playing screen, not just tap. Podcasts' language filter now lets you pick more than one language at once, matching Radio and TV. Improved: The equalizer's custom bands now show the actual dB value next to each slider, plus a Reset button. Pulling down to refresh on Radio/TV now confirms the list is already up to date instead of doing nothing - it keeps itself current in the background. The notification permission is now asked the first time something actually plays, not immediately on opening the app. The combined language/state filter chip is easier to read at a glance. The equalizer's Bass band now points to the separate Bass enhancement setting, and a preset picked while Auto EQ is on is now marked so it's clear it hasn't taken effect yet. Fixed: The hardware/gesture back button while in Sound effects no longer closes all of Settings - it just returns to the Settings list. The welcome screen and the \"update available\" prompt could occasionally show stacked on top of each other on first launch."
+  "versionCode": 28,
+  "versionName": "1.7.7.6",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.7.7.6/app-release.apk",
+  "sha256": "b4fb5196fcd07c24b8af4aca6d827aa1e2f40c5ac68426f851976c23bf765967",
+  "notes": "New: Added DASH stream support alongside HLS. Improved: Fixed a bug where some TV channels with plain (non-HLS) streams were being forced through the wrong parser and failing to play. Streams with a permanently unsupported format now fail fast with a clear message instead of retrying for ~30 seconds first. Reduced background battery use: the equalizer's real-time audio analysis now samples less often, and the periodic background station refresh skips itself when the battery is low."
 }
