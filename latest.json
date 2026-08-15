@@ -2,6 +2,6 @@
   "versionCode": 30,
   "versionName": "1.8",
   "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8/app-release.apk",
-  "sha256": "c1e047c26e41104f7871b322d2ffab8c5570166af45922e4fb9dd14ce44cfbd9",
-  "notes": "New: Record any live radio stream straight from the Now Playing screen - saved to your device's Music/Tarang folder so it's easy to find in a file manager or another music app. Improved: Settings' language list (Radio/TV) now has a search box once there are enough detected languages to make scrolling through them painful. Fixed: Recordings are now saved in the format the station actually streams (MP3/AAC/OGG/etc.) instead of always being labeled .mp3. The record button and playback speed control now have proper TalkBack labels."
+  "sha256": "e715277a15b0cfcd357918bde11f9341db6197289fd59d99c9943b594c0f782a",
+  "notes": "New: Record any live radio stream straight from the Now Playing screen - saved to your device's Music/Tarang folder so it's easy to find in a file manager or another music app. Recording stops itself automatically if the stream disconnects. Improved: Now Playing's artwork has a subtle shadow now. Settings' language list (Radio/TV) now has a search box once there are enough detected languages to make scrolling through them painful. Fixed: Recordings are now saved in the format the station actually streams (MP3/AAC/OGG/etc.) instead of always being labeled .mp3, and are scoped to the exact stream being recorded so they can't pick up audio from something else you play while recording. The record button and playback speed control now have proper TalkBack labels."
 }
