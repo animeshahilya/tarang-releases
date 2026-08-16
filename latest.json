@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.8.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.1/app-release.apk",
-  "sha256": "bb8c4e0b6ec9014c8066ab7a855af5d53619ed29cac43fa03da30c56bcb8629b",
-  "notes": "New: Default languages setting - pick languages that are automatically applied to both Radio and TV every time the app starts. Radio and TV now have independent show category filter/show language filter toggles instead of one shared setting. Show bitrate badge and Compact station list toggles for station rows. Prefer audio-only streams (TV) saves bandwidth by choosing the cheapest stream when Video mode is off. Fixed: Settings' Show category filter/Show language filter rows looked like duplicates since Radio's and TV's versions had the same label - now labeled Show Radio category filter/Show TV category filter and similarly for language."
+  "versionCode": 32,
+  "versionName": "1.8.2",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.2/app-release.apk",
+  "sha256": "a2878f66049c01eb2a6be0f7c803b1d2780e158773ea56c82836930634765fd9",
+  "notes": "Fixed: Default languages now actually applies - it used to only take effect on a full cold start and could be silently overridden by the same language being hidden elsewhere; changing it in Settings now applies immediately to Radio and TV, no restart needed. Removed: Show Radio/TV language filter and Radio/TV languages settings, now redundant since Default languages does the real filtering job - the language filter chip always shows every detected language."
 }
