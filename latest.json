@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.8.3",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.3/app-release.apk",
-  "sha256": "200c60f197b6737ad8f432a4834fc57d6019f95ddacc272918f6c327174f3ba9",
-  "notes": "Fixed: 'Clear all filters' no longer wipes your default languages along with whatever you'd layered on top of them - it now resets back to your default languages (Settings' 'Default languages') instead of clearing them out entirely. Same for the language sheet's own 'Clear' button."
+  "versionCode": 34,
+  "versionName": "1.8.4",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.4/app-release.apk",
+  "sha256": "1027896de12204bb198d7b285d3e307176fac7ae40a4d7171ef53a8a3b1ae350",
+  "notes": "Fixed: Default languages could silently get wiped back to 'show everything' right at launch, before the station list had even finished loading - so languages you never selected (like Tamil or Urdu showing up despite only picking Hindi/English) could appear anyway. Default languages now stay applied through the initial load instead of racing it."
 }
