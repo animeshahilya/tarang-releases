@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8/app-release.apk",
-  "sha256": "e715277a15b0cfcd357918bde11f9341db6197289fd59d99c9943b594c0f782a",
-  "notes": "New: Record any live radio stream straight from the Now Playing screen - saved to your device's Music/Tarang folder so it's easy to find in a file manager or another music app. Recording stops itself automatically if the stream disconnects. Improved: Now Playing's artwork has a subtle shadow now. Settings' language list (Radio/TV) now has a search box once there are enough detected languages to make scrolling through them painful. Fixed: Recordings are now saved in the format the station actually streams (MP3/AAC/OGG/etc.) instead of always being labeled .mp3, and are scoped to the exact stream being recorded so they can't pick up audio from something else you play while recording. The record button and playback speed control now have proper TalkBack labels."
+  "versionCode": 31,
+  "versionName": "1.8.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.1/app-release.apk",
+  "sha256": "bb8c4e0b6ec9014c8066ab7a855af5d53619ed29cac43fa03da30c56bcb8629b",
+  "notes": "New: Default languages setting - pick languages that are automatically applied to both Radio and TV every time the app starts. Radio and TV now have independent show category filter/show language filter toggles instead of one shared setting. Show bitrate badge and Compact station list toggles for station rows. Prefer audio-only streams (TV) saves bandwidth by choosing the cheapest stream when Video mode is off. Fixed: Settings' Show category filter/Show language filter rows looked like duplicates since Radio's and TV's versions had the same label - now labeled Show Radio category filter/Show TV category filter and similarly for language."
 }
