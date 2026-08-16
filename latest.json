@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.8.2",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.2/app-release.apk",
-  "sha256": "a2878f66049c01eb2a6be0f7c803b1d2780e158773ea56c82836930634765fd9",
-  "notes": "Fixed: Default languages now actually applies - it used to only take effect on a full cold start and could be silently overridden by the same language being hidden elsewhere; changing it in Settings now applies immediately to Radio and TV, no restart needed. Removed: Show Radio/TV language filter and Radio/TV languages settings, now redundant since Default languages does the real filtering job - the language filter chip always shows every detected language."
+  "versionCode": 33,
+  "versionName": "1.8.3",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.3/app-release.apk",
+  "sha256": "200c60f197b6737ad8f432a4834fc57d6019f95ddacc272918f6c327174f3ba9",
+  "notes": "Fixed: 'Clear all filters' no longer wipes your default languages along with whatever you'd layered on top of them - it now resets back to your default languages (Settings' 'Default languages') instead of clearing them out entirely. Same for the language sheet's own 'Clear' button."
 }
