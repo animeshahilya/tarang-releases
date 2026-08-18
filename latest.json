@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "1.8.4",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.4/app-release.apk",
-  "sha256": "1027896de12204bb198d7b285d3e307176fac7ae40a4d7171ef53a8a3b1ae350",
-  "notes": "Fixed: Default languages could silently get wiped back to 'show everything' right at launch, before the station list had even finished loading - so languages you never selected (like Tamil or Urdu showing up despite only picking Hindi/English) could appear anyway. Default languages now stay applied through the initial load instead of racing it."
+  "versionCode": 35,
+  "versionName": "1.8.5",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.5/app-release.apk",
+  "sha256": "66ebf057cec428c57ac35cb400a6081c22757fe51d03a5f91af2a9fe28e3a61a",
+  "notes": "New: 8 more EQ presets, 2 new reverb presets, 3D Sound Stage, Volume Boost, Stereo Widener, Mains Hum Filter, and Taddy as a 5th podcast source - Sound Zone now brings every sound setting into one screen. Open audio files from other apps straight into Music, use new App Shortcuts (long-press the icon) and a Quick Settings play/pause tile, and if Tarang ever crashes it can now offer to report it. Plus better background battery use, a fix for stations occasionally showing twice, and a batch of accessibility/description fixes across Settings, Sound Zone, and Local Music."
 }
