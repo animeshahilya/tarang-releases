@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "1.8.5",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.5/app-release.apk",
-  "sha256": "66ebf057cec428c57ac35cb400a6081c22757fe51d03a5f91af2a9fe28e3a61a",
-  "notes": "New: 8 more EQ presets, 2 new reverb presets, 3D Sound Stage, Volume Boost, Stereo Widener, Mains Hum Filter, and Taddy as a 5th podcast source - Sound Zone now brings every sound setting into one screen. Open audio files from other apps straight into Music, use new App Shortcuts (long-press the icon) and a Quick Settings play/pause tile, and if Tarang ever crashes it can now offer to report it. Plus better background battery use, a fix for stations occasionally showing twice, and a batch of accessibility/description fixes across Settings, Sound Zone, and Local Music."
+  "versionCode": 36,
+  "versionName": "1.8.5.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.5.1/app-release.apk",
+  "sha256": "34753d15c4426a4b3f824b5b6abba409b266963a7dcfd42aa82a0dbfa3211ffc",
+  "notes": "Fixed: TV channels/stations with a known backup stream now actually fall back to it instead of just erroring out (e.g. Disney HD). Fixed a station or channel getting stuck showing \"Connecting...\" forever, including one case that could silently drop the rest of your station queue during recovery. Fixed tapping an unplayable station leaving the mini player frozen on \"Connecting...\"."
 }
