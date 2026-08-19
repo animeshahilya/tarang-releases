@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.8.5.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.5.1/app-release.apk",
-  "sha256": "34753d15c4426a4b3f824b5b6abba409b266963a7dcfd42aa82a0dbfa3211ffc",
-  "notes": "Fixed: TV channels/stations with a known backup stream now actually fall back to it instead of just erroring out (e.g. Disney HD). Fixed a station or channel getting stuck showing \"Connecting...\" forever, including one case that could silently drop the rest of your station queue during recovery. Fixed tapping an unplayable station leaving the mini player frozen on \"Connecting...\"."
+  "versionCode": 38,
+  "versionName": "1.8.5.3",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.5.3/app-release.apk",
+  "sha256": "9f6e44cfa2da51b31f042dcfae68ceaed0d80e901b51034d78984a46390e1240",
+  "notes": "New: Music is now Media Player, and it plays local videos too, not just audio - browse and play video files already on your device the same way you already could with music, complete with thumbnails and a full video view. Auto EQ can now reach three more presets (Small Speakers, Treble Boost, Bass Boost) by analyzing the actual audio in real time, not just station/episode tags. Fixed: a real, wide-reaching bug where tapping a station, channel, episode, or track could silently do nothing the first time you played anything in a fresh app session - every screen was affected, now fixed for good. Local tracks and videos could stop playing shortly after starting, especially with repeat on - fixed a crash in the background recording pipeline. The search field's spoken label was silently missing for TalkBack users - now announced correctly. Plus a full accessibility pass across the app with verified TalkBack support everywhere."
 }
