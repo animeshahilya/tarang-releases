@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.8.5.3",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.5.3/app-release.apk",
-  "sha256": "9f6e44cfa2da51b31f042dcfae68ceaed0d80e901b51034d78984a46390e1240",
-  "notes": "New: Music is now Media Player, and it plays local videos too, not just audio - browse and play video files already on your device the same way you already could with music, complete with thumbnails and a full video view. Auto EQ can now reach three more presets (Small Speakers, Treble Boost, Bass Boost) by analyzing the actual audio in real time, not just station/episode tags. Fixed: a real, wide-reaching bug where tapping a station, channel, episode, or track could silently do nothing the first time you played anything in a fresh app session - every screen was affected, now fixed for good. Local tracks and videos could stop playing shortly after starting, especially with repeat on - fixed a crash in the background recording pipeline. The search field's spoken label was silently missing for TalkBack users - now announced correctly. Plus a full accessibility pass across the app with verified TalkBack support everywhere."
+  "versionCode": 39,
+  "versionName": "1.8.5.4",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.5.4/app-release.apk",
+  "sha256": "b7d51949685306375febda51d2df50d6f247bbaace788e393b36de5727c97356",
+  "notes": "Fixed: the in-app updater re-downloaded the same update APK from scratch every time you reopened the app without installing it, and left old, superseded update files behind in your Downloads folder - it now reuses an already-downloaded update and cleans up the old one once a newer version replaces it. The background station/TV refresh could redundantly re-fetch the station list over the network even when it was already fresh - it now skips the network call when nothing's actually stale."
 }
