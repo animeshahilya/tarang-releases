@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.8.6",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6/app-release.apk",
-  "sha256": "435febd9ea0f6864314b782b0f7e477ae9ab44bb6474bbdaadbb1dc71978a2e7",
-  "notes": "Retuned the automatic de-harsh filter so speech on low-bitrate/TV/Akashvani stations sounds clearer, not muffled. Fixed a subtle aliasing artifact in the Concert Hall reverb preset, and a floating-point issue that could occasionally stall several audio effects during quiet passages on some phones. Category/language filtering now runs off the main thread for smoother UI. Fixed the audio visualizer animating too slowly. Toggling audio-only on a playing YouTube video could sometimes leave playback stalled - fixed. Security hardening: the in-app updater now verifies every download's integrity hash and only trusts Tarang's official GitHub release host, incoming shared files are restricted to actual playable media, and playback can no longer be controlled by another app on your device."
+  "versionCode": 41,
+  "versionName": "1.8.6.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.1/app-release.apk",
+  "sha256": "c6b63b175b72324a29cd10e178a885db39fa4e2441264417bca286c16a5919f9",
+  "notes": "Fixed a case where the YouTube audio-language picker could still mix streams from different dubs together and pick by bitrate on videos where no track was tagged as the original - reintroducing the exact bug this feature exists to prevent. Sponsor-segment auto-skipping could briefly stop working right after switching audio language - fixed. Picking an audio language that failed to switch (e.g. a network hiccup) no longer silently saves that choice as your preference."
 }
