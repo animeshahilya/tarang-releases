@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.8.5.4",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.5.4/app-release.apk",
-  "sha256": "b7d51949685306375febda51d2df50d6f247bbaace788e393b36de5727c97356",
-  "notes": "Fixed: the in-app updater re-downloaded the same update APK from scratch every time you reopened the app without installing it, and left old, superseded update files behind in your Downloads folder - it now reuses an already-downloaded update and cleans up the old one once a newer version replaces it. The background station/TV refresh could redundantly re-fetch the station list over the network even when it was already fresh - it now skips the network call when nothing's actually stale."
+  "versionCode": 40,
+  "versionName": "1.8.6",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6/app-release.apk",
+  "sha256": "435febd9ea0f6864314b782b0f7e477ae9ab44bb6474bbdaadbb1dc71978a2e7",
+  "notes": "Retuned the automatic de-harsh filter so speech on low-bitrate/TV/Akashvani stations sounds clearer, not muffled. Fixed a subtle aliasing artifact in the Concert Hall reverb preset, and a floating-point issue that could occasionally stall several audio effects during quiet passages on some phones. Category/language filtering now runs off the main thread for smoother UI. Fixed the audio visualizer animating too slowly. Toggling audio-only on a playing YouTube video could sometimes leave playback stalled - fixed. Security hardening: the in-app updater now verifies every download's integrity hash and only trusts Tarang's official GitHub release host, incoming shared files are restricted to actual playable media, and playback can no longer be controlled by another app on your device."
 }
