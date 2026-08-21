@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.8.6.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.1/app-release.apk",
-  "sha256": "c6b63b175b72324a29cd10e178a885db39fa4e2441264417bca286c16a5919f9",
-  "notes": "Fixed a case where the YouTube audio-language picker could still mix streams from different dubs together and pick by bitrate on videos where no track was tagged as the original - reintroducing the exact bug this feature exists to prevent. Sponsor-segment auto-skipping could briefly stop working right after switching audio language - fixed. Picking an audio language that failed to switch (e.g. a network hiccup) no longer silently saves that choice as your preference."
+  "versionCode": 42,
+  "versionName": "1.8.6.2",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.2/app-release.apk",
+  "sha256": "441abe9cf91598ea0ffb5298c8857403997d7752e2d71d2e0d15cde71bb28d9a",
+  "notes": "Switching YouTube audio language while paused no longer unexpectedly starts playback. The audio-language menu no longer stays permanently empty for a video reached by skipping/autoplay. Picking a dub track with no language-code metadata no longer silently resets your remembered language preference. The language menu now warns upfront that picking a language switches a currently video-visible YouTube video to audio-only."
 }
