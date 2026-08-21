@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "1.8.6.2",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.2/app-release.apk",
-  "sha256": "441abe9cf91598ea0ffb5298c8857403997d7752e2d71d2e0d15cde71bb28d9a",
-  "notes": "Switching YouTube audio language while paused no longer unexpectedly starts playback. The audio-language menu no longer stays permanently empty for a video reached by skipping/autoplay. Picking a dub track with no language-code metadata no longer silently resets your remembered language preference. The language menu now warns upfront that picking a language switches a currently video-visible YouTube video to audio-only."
+  "versionCode": 43,
+  "versionName": "1.8.6.3",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.3/app-release.apk",
+  "sha256": "5d4466f2e5d064157ee718dfbd8499930e139bfb59dbb8c96015cbb491fadf6c",
+  "notes": "Internal cleanup: consolidated duplicated accessibility logic in the station, podcast, and local music/YouTube lists into shared helpers. No user-facing changes."
 }
