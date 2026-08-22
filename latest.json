@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "1.8.6.5",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.5/app-release.apk",
-  "sha256": "b27e066b91ec212fa73955df601f92eb9cad1e09f3bce2634c5448d8a5f0c204",
-  "notes": "Deleting a file from the Media Player now actually works - it silently did nothing for almost every file before. Search no longer comes up empty when your query has a trailing space, and the Media Player's file menu is reachable by TalkBack. Radio and TV filters moved into one Filters sheet, and there are new Media Player settings for file actions."
+  "versionCode": 47,
+  "versionName": "1.8.6.7",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.7/app-release.apk",
+  "sha256": "50ed5809b6ea3fd2228e3cf8b95525ae0c38473c0ce835e429de23dfe178c0c2",
+  "notes": "Settings > Playback now lets you pick your player - Mini keeps you on the list with just the bottom bar, Full opens the Now Playing screen when playback starts. TalkBack can reach the button on every empty screen again, including the Media Player's Grant access. Deleting a file no longer asks twice, and now takes the track out of the play queue too."
 }
