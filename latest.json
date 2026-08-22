@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "1.8.6.8",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.8/app-release.apk",
-  "sha256": "afac0cb9baaad94c773d25de82c39518571646c5617d7d02d491a355e97aa9f6",
-  "notes": "Settings is grouped now - the ten section headings fit on one screen and expand one at a time instead of one long scroll. The Full player no longer opens half-height with the playback controls cut off below the fold. The Podcasts language filter is remembered across restarts. And \"Check for updates\" no longer answers out of a stale cache, so a fresh release shows up right away."
+  "versionCode": 49,
+  "versionName": "1.8.6.9",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.9/app-release.apk",
+  "sha256": "c23a3179fe3fd435ca8968f9af56da9ec0c4834a06f353d83833154120af662f",
+  "notes": "A TalkBack release. The Media Player's Share, Track details and Delete are now custom actions on the track itself instead of living only inside a popup menu, and its top bar carries the same playback actions Radio, TV and Podcasts already had. Videos announce themselves as videos, the Track details dialog title is a heading, the custom reverb sliders announce their value, and the search field's Clear button says \"Clear recent searches\"."
 }
