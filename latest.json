@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "1.8.6.7",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.7/app-release.apk",
-  "sha256": "50ed5809b6ea3fd2228e3cf8b95525ae0c38473c0ce835e429de23dfe178c0c2",
-  "notes": "Settings > Playback now lets you pick your player - Mini keeps you on the list with just the bottom bar, Full opens the Now Playing screen when playback starts. TalkBack can reach the button on every empty screen again, including the Media Player's Grant access. Deleting a file no longer asks twice, and now takes the track out of the play queue too."
+  "versionCode": 48,
+  "versionName": "1.8.6.8",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.8/app-release.apk",
+  "sha256": "afac0cb9baaad94c773d25de82c39518571646c5617d7d02d491a355e97aa9f6",
+  "notes": "Settings is grouped now - the ten section headings fit on one screen and expand one at a time instead of one long scroll. The Full player no longer opens half-height with the playback controls cut off below the fold. The Podcasts language filter is remembered across restarts. And \"Check for updates\" no longer answers out of a stale cache, so a fresh release shows up right away."
 }
