@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "1.8.6.3",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.3/app-release.apk",
-  "sha256": "5d4466f2e5d064157ee718dfbd8499930e139bfb59dbb8c96015cbb491fadf6c",
-  "notes": "Internal cleanup: consolidated duplicated accessibility logic in the station, podcast, and local music/YouTube lists into shared helpers. No user-facing changes."
+  "versionCode": 45,
+  "versionName": "1.8.6.5",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.6.5/app-release.apk",
+  "sha256": "b27e066b91ec212fa73955df601f92eb9cad1e09f3bce2634c5448d8a5f0c204",
+  "notes": "Deleting a file from the Media Player now actually works - it silently did nothing for almost every file before. Search no longer comes up empty when your query has a trailing space, and the Media Player's file menu is reachable by TalkBack. Radio and TV filters moved into one Filters sheet, and there are new Media Player settings for file actions."
 }
