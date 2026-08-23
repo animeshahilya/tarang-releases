@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "1.8.7.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.7.1/app-release.apk",
-  "sha256": "378d94570da8d925e155918bbcd9ad2fbce2813fac2c6418e63f78a6209e56be",
-  "notes": "Bug fixes for YouTube search and the visualizer. The Music filter re-showed the Videos results, because results were cached per query but not per filter. Switching between Videos and Music did nothing at all with Live search turned off - picking a filter now re-runs the search either way. Live search off no longer means YouTube is queried on every keystroke anyway: the setting covered the result list but not the autocomplete dropdown. And the audio visualizer no longer goes flat when two sets of bars are on screen at once - opening the full player, or scrolling the playing row out of the list, used to switch the audio capture off underneath the bars still showing."
+  "versionCode": 52,
+  "versionName": "1.8.7.2",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.7.2/app-release.apk",
+  "sha256": "b3b3d3a6597815aa59f6f699621928b4322e72040b4f86cdcc759444c2164122",
+  "notes": "Fixes the playback speed control silencing the audio. With Clip Guard turned on, picking any speed stopped the sound completely while the player carried on showing that it was playing - and the same stall could hit the end of a track or episode. Clip Guard holds a few milliseconds of audio in hand to catch peaks before they arrive, so it has a tail to flush whenever a stream is drained; it was flushing that tail over and over instead of once, so the drain never finished and nothing further reached the speakers. Also fixes a buffer of audio being dropped mid-playback when Auto EQ's analysis and a fresh output buffer landed on the same moment. Improved: the playback speed picker now shows for on-device music and videos in the Media Player, not only for YouTube - a speed stays in force until you change it, so picking 1.5x for a video used to leave the next song playing fast with no control on screen to put it back."
 }
