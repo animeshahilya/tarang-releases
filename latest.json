@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "1.8.7.0",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.7.0/app-release.apk",
-  "sha256": "de3f29ca30b9ef9be530a8defeb23e998e685fcd82c713289561a9f17ba265ba",
-  "notes": "New: a sleep timer on the mini player, and a proper YouTube player - playback speed, transport controls, autoplay, a Videos/Music search filter, search autocomplete, tap-to-seek chapters, an uploader card with view and like counts and description, and channel and playlist browsing. Settings gets a default YouTube video quality. Fixed: back from the Media Player and Podcasts tabs closed the app instead of returning to Radio; YouTube search came back empty with no explanation when rate-limited, and now offers a retry; several playback controls were unlabelled for TalkBack. Improved: less battery use while playing, since the audio spectrum capture now idles when nothing is showing it; Settings sections scroll into view when you open them; the Media Player's screen-reader actions call a video a video; and Track details shows the date a file was added."
+  "versionCode": 51,
+  "versionName": "1.8.7.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.7.1/app-release.apk",
+  "sha256": "378d94570da8d925e155918bbcd9ad2fbce2813fac2c6418e63f78a6209e56be",
+  "notes": "Bug fixes for YouTube search and the visualizer. The Music filter re-showed the Videos results, because results were cached per query but not per filter. Switching between Videos and Music did nothing at all with Live search turned off - picking a filter now re-runs the search either way. Live search off no longer means YouTube is queried on every keystroke anyway: the setting covered the result list but not the autocomplete dropdown. And the audio visualizer no longer goes flat when two sets of bars are on screen at once - opening the full player, or scrolling the playing row out of the list, used to switch the audio capture off underneath the bars still showing."
 }
