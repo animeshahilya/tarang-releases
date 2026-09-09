@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "1.8.8.7",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.8.7/app-release.apk",
-  "sha256": "9dcba2a7c0f12bd550613348ce43a7f6c3f8bbe4f0a116dbbbfdc6b292478c46",
-  "notes": "Station and TV lists load again, now served through Tarang's own service - this update is required, older versions can no longer load them at all. Stations that have gone off air are found and dropped faster, using what actually plays on real phones. Favourites no longer disappear when a language filter is on, and when filters hide everything the screen says so instead of claiming you have no favourites. One equalizer instead of two, and the custom equalizer now has ten bands. New settings: typo-tolerant search, match station names only, Auto EQ switching speed, and how often the list refreshes in the background. The country filter now counts as a filter, and Clear all filters resets it. Two Retry buttons a screen reader could not reach are reachable again."
+  "versionCode": 67,
+  "versionName": "1.8.8.8",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.8.8/app-release.apk",
+  "sha256": "6ab17b6922487761ef085f6c86de15a068c607f163ee41d9d0c3df3bd9c3df2c",
+  "notes": "Fixed: switching category could briefly announce \"No stations found\" right before the real list appeared. Stations and TV channels keep showing up during a brief outage instead of the list going empty. A sound setting from before an update no longer gets silently overwritten. Video quality on mobile data is now capped consistently everywhere, not just sometimes. A podcast chapter timestamped past 60 minutes now shows the right time."
 }
