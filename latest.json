@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "1.8.8.8",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.8.8/app-release.apk",
-  "sha256": "6ab17b6922487761ef085f6c86de15a068c607f163ee41d9d0c3df3bd9c3df2c",
-  "notes": "Fixed: switching category could briefly announce \"No stations found\" right before the real list appeared. Stations and TV channels keep showing up during a brief outage instead of the list going empty. A sound setting from before an update no longer gets silently overwritten. Video quality on mobile data is now capped consistently everywhere, not just sometimes. A podcast chapter timestamped past 60 minutes now shows the right time."
+  "versionCode": 68,
+  "versionName": "1.8.9",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.9/app-release.apk",
+  "sha256": "1fd21b49067e446a075f5fd47c72fde5c25bec53e502b9b146c85cd56d00dc26",
+  "notes": "Screen readers now announce list position (\"item 3 of 47\") across stations, TV, podcasts, downloads, local music, bookmarks, and every YouTube list."
 }
