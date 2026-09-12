@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "1.8.9",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.8.9/app-release.apk",
-  "sha256": "1fd21b49067e446a075f5fd47c72fde5c25bec53e502b9b146c85cd56d00dc26",
-  "notes": "Screen readers now announce list position (\"item 3 of 47\") across stations, TV, podcasts, downloads, local music, bookmarks, and every YouTube list."
+  "versionCode": 69,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.0/app-release.apk",
+  "sha256": "92599ff5c99b9dbefd2e74852f0904e717fb89b6cc19b0f2bde6279865c76040",
+  "notes": "New: a radio alarm in Settings > Playback - wake up to a favorite station, once or every day. Loudness Leveler no longer starts loud for a split second when switched on. Podcast shows whose feeds use Atom links or MediaRSS attachments now list their episodes instead of showing none. Lyrics with long timestamps or microsecond fractions now highlight at the right time. The station list now survives the system clearing cached files. Favorites now shows only your favorited stations, instead of sometimes mixing in the Radio tab's filter. Fixed the Filters button getting squished or cut off on some screens."
 }
