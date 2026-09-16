@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.0/app-release.apk",
-  "sha256": "92599ff5c99b9dbefd2e74852f0904e717fb89b6cc19b0f2bde6279865c76040",
-  "notes": "New: a radio alarm in Settings > Playback - wake up to a favorite station, once or every day. Loudness Leveler no longer starts loud for a split second when switched on. Podcast shows whose feeds use Atom links or MediaRSS attachments now list their episodes instead of showing none. Lyrics with long timestamps or microsecond fractions now highlight at the right time. The station list now survives the system clearing cached files. Favorites now shows only your favorited stations, instead of sometimes mixing in the Radio tab's filter. Fixed the Filters button getting squished or cut off on some screens."
+  "versionCode": 70,
+  "versionName": "1.9.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.1/app-release.apk",
+  "sha256": "1520ebed331197bd033e8842934f37c32973a15c986f89c640149e67de1a439d",
+  "notes": "New: a radio alarm in Settings > Playback - wake up to a favorite station, once or every day. Podcast episodes can be downloaded for offline listening, and downloaded episodes actually play from the phone now when you skip to them or resume them. Recording a TV channel now saves a real video, instead of an audio file with the video crammed inside it. YouTube videos start playing sooner, and downloading one still works even on days YouTube itself is being difficult. Favorites now shows only your favorited stations. Settings shows what listening history lives on this device, with one clear for all of it."
 }
