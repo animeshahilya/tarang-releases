@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "1.9.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.1/app-release.apk",
-  "sha256": "1520ebed331197bd033e8842934f37c32973a15c986f89c640149e67de1a439d",
-  "notes": "New: a radio alarm in Settings > Playback - wake up to a favorite station, once or every day. Podcast episodes can be downloaded for offline listening, and downloaded episodes actually play from the phone now when you skip to them or resume them. Recording a TV channel now saves a real video, instead of an audio file with the video crammed inside it. YouTube videos start playing sooner, and downloading one still works even on days YouTube itself is being difficult. Favorites now shows only your favorited stations. Settings shows what listening history lives on this device, with one clear for all of it."
+  "versionCode": 71,
+  "versionName": "1.9.2",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.2/app-release.apk",
+  "sha256": "ec6d93cd71e123757023579b57381e9bebc665c21539dea724e9c771ba0e09db",
+  "notes": "Fixed the \"offline\"/\"cached\" banner being read out twice by screen readers. Fixed TV recordings on some channels coming out corrupted and unplayable. Recording, exporting/importing favorites and settings, and opening the changelog no longer briefly freeze the app while they work. Updated several under-the-hood components for stability."
 }
