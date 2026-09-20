@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "1.9.2",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.2/app-release.apk",
-  "sha256": "ec6d93cd71e123757023579b57381e9bebc665c21539dea724e9c771ba0e09db",
-  "notes": "Fixed the \"offline\"/\"cached\" banner being read out twice by screen readers. Fixed TV recordings on some channels coming out corrupted and unplayable. Recording, exporting/importing favorites and settings, and opening the changelog no longer briefly freeze the app while they work. Updated several under-the-hood components for stability."
+  "versionCode": 72,
+  "versionName": "1.9.3",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.3/app-release.apk",
+  "sha256": "5aa6ddf0287bd476f5c464d26904c3d443d490bf960a17b95b59a057c0affcae",
+  "notes": "Fixed TV and radio channels randomly switching to a different, unrelated channel partway through playback."
 }
