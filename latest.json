@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "1.9.3",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.3/app-release.apk",
-  "sha256": "5aa6ddf0287bd476f5c464d26904c3d443d490bf960a17b95b59a057c0affcae",
-  "notes": "Fixed TV and radio channels randomly switching to a different, unrelated channel partway through playback."
+  "versionCode": 73,
+  "versionName": "1.9.4",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.4/app-release.apk",
+  "sha256": "dbe23bf9de533ab90a6cfcbbcaa06648f198aca40976920af8d4bea9bfc7cb23",
+  "notes": "An Up Next queue, lyrics for your own music, alerts for new episodes of podcasts you follow, and separate sound settings for speaker, headphones and Bluetooth."
 }
