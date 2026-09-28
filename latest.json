@@ -1,7 +1,7 @@
 {
-  "versionCode": 73,
-  "versionName": "1.9.4",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.4/app-release.apk",
-  "sha256": "dbe23bf9de533ab90a6cfcbbcaa06648f198aca40976920af8d4bea9bfc7cb23",
-  "notes": "An Up Next queue, lyrics for your own music, alerts for new episodes of podcasts you follow, and separate sound settings for speaker, headphones and Bluetooth."
+  "versionCode": 74,
+  "versionName": "1.9.5",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.5/app-release.apk",
+  "sha256": "c94166442e56584b6d3c113e55cf61a3c86bfd47204c7545708861ab1f5ed8aa",
+  "notes": "Study notes for YouTube videos, Equal Loudness, Clear Voice and De-Esser, a tidier Sound Zone, and a way to give feedback from Settings > About."
 }
