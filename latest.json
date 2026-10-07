@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "1.9.5",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.5/app-release.apk",
-  "sha256": "c94166442e56584b6d3c113e55cf61a3c86bfd47204c7545708861ab1f5ed8aa",
-  "notes": "Study notes for YouTube videos, Equal Loudness, Clear Voice and De-Esser, a tidier Sound Zone, and a way to give feedback from Settings > About."
+  "versionCode": 75,
+  "versionName": "1.9.6",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.6/app-release.apk",
+  "sha256": "9416637d0df8ded20da92e7f171de50c2bd2bb2731d522aaa17db0c3cfc0e0f9",
+  "notes": "Schedule a recording to run at a set time, Songs heard, TV favorites, one shared language choice for Radio and TV, recordings that keep going when the connection drops, and All India Radio recordings that work."
 }
