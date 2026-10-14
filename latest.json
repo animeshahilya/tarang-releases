@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "1.9.6",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.6/app-release.apk",
-  "sha256": "9416637d0df8ded20da92e7f171de50c2bd2bb2731d522aaa17db0c3cfc0e0f9",
-  "notes": "Schedule a recording to run at a set time, Songs heard, TV favorites, one shared language choice for Radio and TV, recordings that keep going when the connection drops, and All India Radio recordings that work."
+  "versionCode": 76,
+  "versionName": "1.9.7",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.7/app-release.apk",
+  "sha256": "04484c77e6f2393661a68d0c631ff1ad137d827b7a529b013b8ab4491f1f0d60",
+  "notes": "A programme guide for All India Radio stations with reminders, new TuneIn stations, TV channels you can find by language, no more duplicate or foreign sports-talk stations, more reliable stations and favorites, and the radio alarm plays its station when tapped."
 }
