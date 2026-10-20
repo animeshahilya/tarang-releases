@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "1.9.7",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.7/app-release.apk",
-  "sha256": "04484c77e6f2393661a68d0c631ff1ad137d827b7a529b013b8ab4491f1f0d60",
-  "notes": "A programme guide for All India Radio stations with reminders, new TuneIn stations, TV channels you can find by language, no more duplicate or foreign sports-talk stations, more reliable stations and favorites, and the radio alarm plays its station when tapped."
+  "versionCode": 77,
+  "versionName": "1.9.8",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.8/app-release.apk",
+  "sha256": "eee59f9d68cb9469b9769c4556be97c301fed842224df682422dd755e31cb26b",
+  "notes": "Media Player tabs for songs, folders, albums and artists; choose which folders appear; hide short clips like voice notes; play videos as audio only; smooth fades when skipping; keep screen on only while playing; and a Media Player that works in landscape."
 }
