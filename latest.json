@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "1.9.8",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.8/app-release.apk",
-  "sha256": "eee59f9d68cb9469b9769c4556be97c301fed842224df682422dd755e31cb26b",
-  "notes": "Media Player tabs for songs, folders, albums and artists; choose which folders appear; hide short clips like voice notes; play videos as audio only; smooth fades when skipping; keep screen on only while playing; and a Media Player that works in landscape."
+  "versionCode": 78,
+  "versionName": "1.9.9",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.9/app-release.apk",
+  "sha256": "1b28ef5ed339f9ac2f12c37576c429357bf491a8c9be5d68bee0c4dff3e502e1",
+  "notes": "Radio and TV play straight away on mobile data, a station that never starts stops trying and tells you, and Pravah gets Home, Subscriptions and You tabs, picture-in-picture, Shorts and Live."
 }
