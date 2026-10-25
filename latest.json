@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "1.9.9",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v1.9.9/app-release.apk",
-  "sha256": "1b28ef5ed339f9ac2f12c37576c429357bf491a8c9be5d68bee0c4dff3e502e1",
-  "notes": "Radio and TV play straight away on mobile data, a station that never starts stops trying and tells you, and Pravah gets Home, Subscriptions and You tabs, picture-in-picture, Shorts and Live."
+  "versionCode": 79,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.0/app-release.apk",
+  "sha256": "9c9cf695d3211bb7f35311c4e2f820a24d60cfc57e0c645a07f977b6155037fa",
+  "notes": "Every station now tries up to three backup streams, All India Radio stations get a GUIDE badge with today's schedule, search and reminders, Play next and Add to queue come to songs and videos, and about 600 more TV channels."
 }
