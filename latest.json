@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.0/app-release.apk",
-  "sha256": "9c9cf695d3211bb7f35311c4e2f820a24d60cfc57e0c645a07f977b6155037fa",
-  "notes": "Every station now tries up to three backup streams, All India Radio stations get a GUIDE badge with today's schedule, search and reminders, Play next and Add to queue come to songs and videos, and about 600 more TV channels."
+  "versionCode": 80,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1/app-release.apk",
+  "sha256": "4ad75d92a1e7eaa396145e077e3a74eefc4a308d9aa7a2b2bc4cbfd9ec0f7312",
+  "notes": "Crossfade between songs and videos, much faster Pravah downloads that no longer get stuck, videos made for kids play and download again, update and podcast downloads no longer stall on Redmi phones, and TalkBack fixes."
 }
