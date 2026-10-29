@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "2.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1/app-release.apk",
-  "sha256": "4ad75d92a1e7eaa396145e077e3a74eefc4a308d9aa7a2b2bc4cbfd9ec0f7312",
-  "notes": "Crossfade between songs and videos, much faster Pravah downloads that no longer get stuck, videos made for kids play and download again, update and podcast downloads no longer stall on Redmi phones, and TalkBack fixes."
+  "versionCode": 81,
+  "versionName": "2.1.1",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1.1/app-release.apk",
+  "sha256": "b4c46fa58cfe4f703572820dae23e928cbcb16c7ac504fb5f1d00ce7584137e0",
+  "notes": "Fixes radio stopping while the phone is locked and the player controls going missing, a cleaner Now Playing screen with the controls always at the bottom, long podcast feeds open again, crossfade fixes, and duplicate settings removed."
 }
