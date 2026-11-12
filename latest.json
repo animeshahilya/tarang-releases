@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "2.1.1",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1.1/app-release.apk",
-  "sha256": "b4c46fa58cfe4f703572820dae23e928cbcb16c7ac504fb5f1d00ce7584137e0",
-  "notes": "Fixes radio stopping while the phone is locked and the player controls going missing, a cleaner Now Playing screen with the controls always at the bottom, long podcast feeds open again, crossfade fixes, and duplicate settings removed."
+  "versionCode": 82,
+  "versionName": "2.1.2",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1.2/app-release.apk",
+  "sha256": "8a011927895678577d0822876458881f7da81395c5420b6982e87fb9db17139a",
+  "notes": "About 900 more radio stations and 100 more TV channels. Scheduled recordings work with the screen off, recover from a slow start and are no longer cut short. The sleep timer always stops playback. Downloads keep their speed with the screen off, kids videos download as audio, and video descriptions show clean text. Some podcasts that said \"No episodes found\" now load, and pressing play during a call no longer plays over it."
 }
