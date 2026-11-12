@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "2.1.2",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1.2/app-release.apk",
-  "sha256": "8a011927895678577d0822876458881f7da81395c5420b6982e87fb9db17139a",
-  "notes": "About 900 more radio stations and 100 more TV channels. Scheduled recordings work with the screen off, recover from a slow start and are no longer cut short. The sleep timer always stops playback. Downloads keep their speed with the screen off, kids videos download as audio, and video descriptions show clean text. Some podcasts that said \"No episodes found\" now load, and pressing play during a call no longer plays over it."
+  "versionCode": 83,
+  "versionName": "2.1.3",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1.3/app-release.apk",
+  "sha256": "e3c550a46ec3e84e1820a446340cb7bf2a81c59271ecd3321567052be68d91e2",
+  "notes": "Fixes the Google Play Protect warning that appeared when updating to 2.1.2. Scheduled recordings again stop after about six hours of recording in one day, as Android requires, and keep what they recorded."
 }
