@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "2.1.3",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1.3/app-release.apk",
-  "sha256": "e3c550a46ec3e84e1820a446340cb7bf2a81c59271ecd3321567052be68d91e2",
-  "notes": "Fixes the Google Play Protect warning that appeared when updating to 2.1.2. Scheduled recordings again stop after about six hours of recording in one day, as Android requires, and keep what they recorded."
+  "versionCode": 84,
+  "versionName": "2.1.4",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1.4/app-release.apk",
+  "sha256": "d2cf2795503d62bf1b94f9059a0cee4c0a096a8f5626ba43abcbf46cb94fb897",
+  "notes": "Google Play Protect no longer blocks Tarang. Updates are now saved to your Downloads folder to install from there. All ten equalizer bands now work properly, crossfade works on albums, and there are TalkBack and safety fixes. This update is still installed the old way, so the warning can appear one last time: choose \"Install anyway\"."
 }
