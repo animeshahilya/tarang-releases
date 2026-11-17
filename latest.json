@@ -1,7 +1,7 @@
 {
-  "versionCode": 84,
-  "versionName": "2.1.4",
-  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1.4/app-release.apk",
-  "sha256": "d2cf2795503d62bf1b94f9059a0cee4c0a096a8f5626ba43abcbf46cb94fb897",
-  "notes": "Google Play Protect no longer blocks Tarang. Updates are now saved to your Downloads folder to install from there. All ten equalizer bands now work properly, crossfade works on albums, and there are TalkBack and safety fixes. This update is still installed the old way, so the warning can appear one last time: choose \"Install anyway\"."
+  "versionCode": 85,
+  "versionName": "2.1.5",
+  "apkUrl": "https://github.com/animeshahilya/tarang-releases/releases/download/v2.1.5/app-release.apk",
+  "sha256": "bccb0aafa8e11136bd7571bebbb34b3f2b2f5d93d5257f22d87318dd53198ea6",
+  "notes": "New: Sangeet, songs from JioSaavn with no account and no ads, with favorites, downloads and music that keeps playing. Name this song tells you what a radio station or TV channel is playing. Downloads carry on when the internet drops. The equalizer balances itself, so bass no longer swamps the music. Tarang works the same on mobile data as on Wi-Fi."
 }
